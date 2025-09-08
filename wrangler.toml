@@ -16,7 +16,8 @@ preview_id = "5c2ac8121ee8495ea1182d65d27cc5a9"
 # 环境变量配置
 # 部署前请修改为安全的密码
 [vars]
-CHAT_PASSWORD = "huolang!@#"
+CHAT_PASSWORD = "huolang7319!@#"
+
 
 
 
